@@ -1,4 +1,3 @@
-console.log("Holiwi")
 const CACHE_STATIC_NAME = 'static-v1'
 const CACHE_DYNAMIC_NAME = 'dynamic-v1'
 const CACHE_INMUTABLE_NAME = 'inmutable-v1'
@@ -25,7 +24,7 @@ self.addEventListener('install', (event) => {
             '/Practicas/',
             '/Practicas/index.html',
             '/Practicas/css/page.css',
-            "/Practicas/img/cheems-memes-9.jpg",
+            "/Practicas/img/el_bicho.jpeg",
             "/Practicas/js/app.js"
         ])
     })
